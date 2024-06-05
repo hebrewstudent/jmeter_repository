@@ -1,0 +1,41 @@
+2024-05-30 13:31:37,861 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2024-05-30 13:31:37,913 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2024-05-30 13:31:37,915 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2024-05-30 13:31:37,937 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2024-05-30 13:31:37,937 INFO o.a.j.JMeter: Version 5.5
+2024-05-30 13:31:37,937 INFO o.a.j.JMeter: java.version=1.8.0_341
+2024-05-30 13:31:37,937 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2024-05-30 13:31:37,937 INFO o.a.j.JMeter: os.name=Windows 10
+2024-05-30 13:31:37,938 INFO o.a.j.JMeter: os.arch=amd64
+2024-05-30 13:31:37,938 INFO o.a.j.JMeter: os.version=10.0
+2024-05-30 13:31:37,938 INFO o.a.j.JMeter: file.encoding=Cp1252
+2024-05-30 13:31:37,938 INFO o.a.j.JMeter: java.awt.headless=null
+2024-05-30 13:31:37,938 INFO o.a.j.JMeter: Max memory     =1073741824
+2024-05-30 13:31:37,938 INFO o.a.j.JMeter: Available Processors =4
+2024-05-30 13:31:37,963 INFO o.a.j.JMeter: Default Locale=English (EN)
+2024-05-30 13:31:37,963 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2024-05-30 13:31:37,963 INFO o.a.j.JMeter: JMeterHome=C:\Users\38066\Desktop\NGDialogue\apache-jmeter-5.5\apache-jmeter-5.5
+2024-05-30 13:31:37,964 INFO o.a.j.JMeter: user.dir  =C:\Users\38066\Desktop\NGDialogue\apache-jmeter-5.5\apache-jmeter-5.5\bin
+2024-05-30 13:31:37,964 INFO o.a.j.JMeter: PWD       =C:\Users\38066\Desktop\NGDialogue\apache-jmeter-5.5\apache-jmeter-5.5\bin
+2024-05-30 13:31:37,966 INFO o.a.j.JMeter: IP: 192.168.1.90 Name: DESKTOP-RRAS0CT FullName: DESKTOP-RRAS0CT
+2024-05-30 13:31:38,094 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2024-05-30 13:31:38,791 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.SolarizedLightTheme
+2024-05-30 13:32:15,343 INFO o.a.j.s.FileServer: Default base='C:\Users\38066\Desktop\NGDialogue\apache-jmeter-5.5\apache-jmeter-5.5\bin'
+2024-05-30 13:32:15,354 INFO o.a.j.g.a.Load: Loading file: C:\Users\38066\Desktop\NGDialogue\Jmeter\CMP test.jmx
+2024-05-30 13:32:15,354 INFO o.a.j.s.FileServer: Set new base='C:\Users\38066\Desktop\NGDialogue\Jmeter'
+2024-05-30 13:32:15,715 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2024-05-30 13:32:15,757 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2024-05-30 13:32:15,759 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2024-05-30 13:32:15,762 INFO o.a.j.s.SaveService: Loading file: C:\Users\38066\Desktop\NGDialogue\Jmeter\CMP test.jmx
+2024-05-30 13:32:15,796 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2024-05-30 13:32:15,804 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-05-30 13:32:15,804 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-05-30 13:32:15,805 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-05-30 13:32:15,805 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-05-30 13:32:15,805 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2024-05-30 13:32:15,805 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2024-05-30 13:32:16,320 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2024-05-30 13:32:16,320 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2024-05-30 13:32:16,320 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2024-05-30 13:32:16,320 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2024-05-30 13:32:16,749 INFO o.a.j.s.FileServer: Set new base='C:\Users\38066\Desktop\NGDialogue\Jmeter'
